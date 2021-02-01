@@ -1,0 +1,10 @@
+!
+! Title: SE kids night DNS filter
+! Description: Filter specific service during night time
+!
+||youtube.com^
+||unrulyrotate.com^
+||submissionspurtgleamed.com^
+||tracot.com^
+||baresi.xyz^
+||roduster.com^
