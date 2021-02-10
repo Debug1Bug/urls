@@ -8,3 +8,8 @@
 ||steampowered.com^
 ||roblox.com^
 ||minecraft.net.com^
+||discord.com^
+||discord.gg^
+||discordapp.com^
+||discord.co^
+||discord.gd^
